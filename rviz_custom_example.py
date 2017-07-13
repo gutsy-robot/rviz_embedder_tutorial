@@ -19,7 +19,7 @@ class MyWindow(QMainWindow):
 
 		#Qt Stuff..
 		super(MyWindow, self).__init__()
-		uic.loadUi('your_designer_file.ui', self)		#load the .ui file made from Qt designer -- you can also use pyside-uic -o outpit.py input.ui on terminal to see your .ui file converted to python objects.
+		uic.loadUi('designer_file.ui', self)		#load the .ui file made from Qt designer -- you can also use pyside-uic -o outpit.py input.ui on terminal to see your .ui file converted to python objects.
 
 		#initialise your rviz widget
 		self.map_widget = MyViz()
