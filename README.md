@@ -26,4 +26,4 @@ Here, is how this example looks in action.
 
 
 
-P.S: You won't be able to dircetly run this example on your machine, beacuse some of the specific resources that have been used are not included here. But I hope this example was helpful.
+P.S: You won't be able to directly run this example on your machine, beacuse some of the specific static resources that have been used are not included here. But I hope this example was helpful.
