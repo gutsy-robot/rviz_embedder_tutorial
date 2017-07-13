@@ -6,7 +6,7 @@ I have picked up parts of my code from one of my own projects to describe how to
 
 Follow my comments in the rviz_custom_example.py and this link http://docs.ros.org/hydro/api/rviz_python_tutorial/html/ for help.
 
-Basically you would first need to create a .ui file in Designer for your UI. I have just used a created a Simple Window with one GridLayout to hold my rviz widget.
+Basically you would first need to create a .ui file in Designer for your UI. I have just created a Simple Window with one GridLayout to hold my rviz widget.
 
 Then go ahead and open rviz and create a .rviz file. In my project, I have used the map display in my custom UI, so first I created the appropriate .rviz file in rviz.
 
