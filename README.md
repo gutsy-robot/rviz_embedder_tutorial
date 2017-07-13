@@ -23,7 +23,7 @@ Here, is how this example looks in action.
 
 
 
-
+Note: The map display created above is not a static image, whatever rosmsgs are published on the topics during the run, the rviz widget gets updated accordingly, as it would on a separate rviz window. Therefore, this provides a way for you to visualise rostopics on rviz along with your other Qt Widgets.
 
 
 P.S: You won't be able to directly run this example on your machine, beacuse some of the specific static resources that have been used are not included here. But I hope this example was helpful.
