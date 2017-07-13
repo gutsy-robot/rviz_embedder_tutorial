@@ -41,7 +41,7 @@ class MyViz( QWidget ):
 
         #you will need a rviz config file. This config file basically has the information about what all from the rviz you want to display on your custom UI.
    
-        reader.readFile( config, "trust_new.rviz" )
+        reader.readFile( config, "my_rviz_file.rviz" )
         self.frame.load( config )
 
         #some settings for how you want your rviz screen to look like.
